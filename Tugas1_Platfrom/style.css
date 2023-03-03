@@ -1,0 +1,65 @@
+body{
+    background-color: #EEE9DA;
+    /* background-image: url(gambar/Dra.jpeg); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right ;
+
+   
+
+}   
+
+#menu_web{
+    background: darkcyan
+}
+/* kondiis biasa */
+.menu:link{
+    color: white;
+    background: grey;
+    
+}
+/* kondi setelah dikunjungi */
+.menu:visited{
+    background: rgb(73, 96, 250);
+}
+/* sedang diklik */
+.menu:hover{
+    background: white;
+}
+#menu_pendidikan{
+    color: darkcyan
+}
+#menu_kemampuan{
+    color: darkcyan;
+}
+#textpendek{
+    color: darkcyan;
+    font-size: 24;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: darkblue;
+    height: 50px;
+    width: 50%;
+     max-width: 30%;
+     max-height: 20px;
+}
+#textpanjang{
+    text-align: center;
+    text-indent: 30px;
+    letter-spacing: 5px;
+    word-spacing: norma;
+    line-height: 50px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+h2{
+    color: brown;
+    
+}
